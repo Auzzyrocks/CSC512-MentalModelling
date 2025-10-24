@@ -1,0 +1,15 @@
+# Obsidian config files
+.obsidian/workspace*
+.obsidian/appearance.json
+.obsidian/graph.json
+.obsidian/plugins/
+.obsidian/snippets/
+.obsidian/themes/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Temporary or private files
+*.log
+*.tmp

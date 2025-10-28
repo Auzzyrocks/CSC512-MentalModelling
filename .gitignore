@@ -5,6 +5,7 @@
 .obsidian/plugins/
 .obsidian/snippets/
 .obsidian/themes/
+.obsidian/community-plugins.json
 
 # OS-specific
 .DS_Store

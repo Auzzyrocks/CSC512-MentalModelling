@@ -1,4 +1,4 @@
-
+The following are examples of normative decision-making models. These models describe a perfectly rational agent, in that they depict exactly how a human being should reason given that they are fully informed and perfectly consistent. These models are **idealized** mental models. 
 # Expected Utility Theory
 This theory states that a rational decision-maker weighs potentials by creating expected utility values as well as calculated probability, such that decisions will always be the most rational. Expected Utility is calculated as a function of the summation of all possible probabilities of an event multiplied with the utility of the outcome. The most rational decision to be made is then the option with the highest calculated utility. 
 

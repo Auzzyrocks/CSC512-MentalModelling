@@ -1,3 +1,4 @@
+
 # Definitions
 There is no single, concise definition of a mental model. Instead, the description of, and terminology around, mental models has continually evolved. Below are some of the various definitions which all in some way contribute to an understanding of the concept. 
 
@@ -18,7 +19,6 @@ Kenneth Craik is widely accredited with first describing mental models in his 19
 *A mental model is a person's mental representation of the way some aspect of the world works ([17](https://pmc.ncbi.nlm.nih.gov/articles/PMC8290163/#B17), [25](https://pmc.ncbi.nlm.nih.gov/articles/PMC8290163/#B25), [26](https://pmc.ncbi.nlm.nih.gov/articles/PMC8290163/#B26)). More specifically, mental models are comprised of interrelated memories, conceptual knowledge, and causal beliefs that create an understanding of how something works in the real world and forms expectations about future events. For example, many, if not most, individuals in the United States (US) have a mental model of a doctor's appointment that includes the steps of the encounter, what kinds of questions and examination to expect, how to interpret what the doctor says (and does not say), and how to interact with the doctor to obtain desired information, tests, and treatments. This particular set of conceptual knowledge, expectations, and causal beliefs is formed primarily by our personal experiences and might also be formed by the transfer of cultural knowledge through media and social networks.*
 
 [https://pmc.ncbi.nlm.nih.gov/articles/PMC8290163/#s2]
-
 
 ## Mental Models Concepts for System Dynamics Research
 In 1998 Doyle and Ford comprehensively explored existing definitions of mental models in their paper *Mental Models Concepts for System Dynamics Research*. Below are some excerpts from this paper that help elucidate their definition.

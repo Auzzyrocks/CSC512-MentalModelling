@@ -4,5 +4,4 @@
 
 - **[[Memory Offloading]]**: using the visual display to hold intermediate states, relations, and cues so the mind doesn’t have to. This frees limited working memory to focus on pattern-finding, hypothesis testing, and explanation. This makes visual external representations far more effective.
 
-## References
-(Hutchins, 1995; Zhang & Norman, 1994)
+- **[[Matching Visuals to Tasks]]**: assigning an appropriate visual for a given task. When an appropriate visual representation is chosen for the data, the task becomes easier to analyze or solve.

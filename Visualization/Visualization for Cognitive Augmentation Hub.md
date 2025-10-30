@@ -4,3 +4,4 @@
 - [[Visualization. Definitions & Scope]]
 - [[External Representations]]
 - [[Memory Offloading]]
+- [[Matching Visuals to Tasks]]

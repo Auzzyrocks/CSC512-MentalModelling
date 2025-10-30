@@ -17,7 +17,6 @@ Where we have that expected utility is a function of the summation of all states
 P(w | x) and U(a, w). which are the likelihoods of evidence (x) given state (w), and the maximum utility function U(a, w), which considers the best action given the post-evidence state. 
 
 This model differs from Expected Utility in that it additionally considers evidence and the possibility of beliefs being updated. The agent has well-defined probabilities, likelihoods for how evidence can arise from given states, and set utility functions. 
-
 ## References
 - Binmore, K. (2017). _On the Foundations of Decision Theory_. _Homo Oeconomicus_, 34(4), 259-273. https://doi.org/10.1007/s41412-017-0056-1
 - Hansson, S. O. (1994). _Decision theory: A brief introduction_ [PDF]. Uppsala University. [https://people.kth.se/~soh/decisiontheory.pdf](https://people.kth.se/~soh/decisiontheory.pdf

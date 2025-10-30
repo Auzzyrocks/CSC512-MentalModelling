@@ -1,6 +1,8 @@
 
 # Definitions
-There is no single, concise definition of a mental model. Instead, the description of, and terminology around, mental models has continually evolved. Below are some of the various definitions which all in some way contribute to an understanding of the concept. 
+Loosely defined, a mental model can be described as a simplified internal representation of some external system, that is used to predict the outcome of a certain scenario. For example, gravity - humans have an internal model or models that allow us to visualize or predict what happens when a cup is pushed off a table. However, mental models have inherent limitations due to memory and processing capacity, as well as various biases that can render models incorrect.
+
+Despite the ubiquity of mental models within human cognition, there is no single, concise definition of a mental model. Instead, the description of and terminology around, mental models has continually evolved. In fact, mental models continue to be an active area of research that is still evolving today. Below are some of the various definitions which all in some way contribute to an understanding of the concept. 
 
 ## The Nature of Explanation
 Kenneth Craik is widely accredited with first describing mental models in his 1942 work *The Nature of Explanation*, writing that
@@ -40,3 +42,4 @@ vary in size and complexity.*
 
 [https://web.wpi.edu/Images/CMS/SSPS/06.pdf]
 [https://journals.sagepub.com/doi/epdf/10.1177/0165551506068134]
+

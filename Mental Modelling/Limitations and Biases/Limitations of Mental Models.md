@@ -13,5 +13,5 @@ Other related views abound. Holtrop et al. express a similar sentiment to Forres
 
 (https://pmc.ncbi.nlm.nih.gov/articles/PMC8290163/#s2)
 
-# Limitations and Cognitive Augmentation 
+# Limitations and Cognitive Augmentations 
 

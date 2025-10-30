@@ -8,7 +8,7 @@ If one cannot fully carry a city, or a government, or a the complete set of phys
 
 [https://web.wpi.edu/Images/CMS/SSPS/06.pdf]
 
-## [[Mental Modelling Definitions#Holtrop et al.|Holtrop et al.]]
+## [[Mental Modelling HEADER#Holtrop et al.|Holtrop et al.]]
 Other related views abound. Holtrop et al. express a similar sentiment to Forrester, highlighting that many mental models, specifically inaccurate ones, are shared across society. They go on to identify a commonly held, but inaccurate, physics model that his been disproved since Gallileo, but is still commonly found today.
 
 *Mental models are always inaccurate to some extent, insofar as they are heuristics and involve stereotypes and expectations to make sense of the world. They cannot encapsulate all aspects of the world and tend to make imperfect predictions. When commonly shared mental models make inaccurate predictions, it can be a source of scientific insight and psychological fascination. For example, a common incorrect mental model about the physical world is that heavier objects fall faster than lighter ones. This mental model results in the expectation that a 20-pound ball will fall faster than a one-ounce ball, an expectation that was disproved compellingly by Galileo, but that is so counterintuitive that we must continue to dispel it in schoolchildren today.*

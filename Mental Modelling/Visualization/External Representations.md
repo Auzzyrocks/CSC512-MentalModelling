@@ -12,7 +12,7 @@ The key idea is that a person is augmenting with their visuals, that makes one d
    - Supports pop-out for targets using preattentive features (color, size, orientation).  
    *Canonical:* Larkin & Simon (1987); Cleveland & McGill (1984); Ware (2019); Kosslyn (2006).
 
-1) **[[Visualization/Memory Offloading|Memory Offloading]]**  
+1) **[[Mental Modelling/Visualization/Memory Offloading|Memory Offloading]]**  
    - Stable marks hold intermediate states/constraints; frees working memory for planning and hypothesis testing.  
    *Canonical:* Risko & Gilbert (2016); Sweller et al. (2011).
 

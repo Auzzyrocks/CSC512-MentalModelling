@@ -5,7 +5,7 @@ Human cognition evolved for local, low-dimensional, and socially-embedded contex
 
 Traditional decision cycles move from perception -> evaluation -> action. Augmented decision-making introduces the concept of meta-cognitive layers: externalization, reflection, and feedback (Kirsch, 2010). Writing, simulation, and [[Visualization for Cognitive Augmentation Hub|Visualization]] that make internal reasoning external, allow for recursive improvements and enhancements. This recursion is a core element of cognitive augmentation - the capacity to think about thinking, or the practice of "metacognition" (Dunlosky & Metcalfe, 2008). It transforms decision-making from a bounded psychological process to an evolving interaction between human and environment. 
 # Normative Models as Augmentation Benchmarks
-[[Normative Decision-Making Models|Normative Models]] describe optimal decision outcomes under ideal circumstances. In cognitive augmentation, these models are not instructions for humans - they are reference points against which tool-supported reasoning can be evaluated. As an example, consider Influence Diagrams (Koller & Milch, 2001). Influence Diagrams generalize decision trees and use the principle of maximizing [[Normative Decision-Making Models#Expected Utility Theory|Expected Utility]]
+[[Normative Decision-Making Models|Normative Models]] describe optimal decision outcomes under ideal circumstances. In cognitive augmentation, these models are not instructions for humans - they are reference points against which tool-supported reasoning can be evaluated. As an example, consider Influence Diagrams (Koller & Milch, 2003). Influence Diagrams generalize decision trees and use the principle of maximizing [[Normative Decision-Making Models#Expected Utility Theory|Expected Utility]] through [[Normative Decision-Making Models#Bayesian Decision Theory|Bayesian networks]]. The [[Normative Decision-Making Models|Normative Model]] 
 # Descriptive Models for Human-Centered Design
 
 # Heuristics and Augmentation
@@ -17,6 +17,6 @@ Traditional decision cycles move from perception -> evaluation -> action. Augmen
 - Gigerenzer, G., & Todd, P. M. (1999). *Simple Heuristics That Make Us Smart.* Oxford University Press.  
 - Hutchins, E. (1995). *Cognition in the Wild.* MIT Press.
 - Kirsh, D. (2010). *Thinking with external representations.* *AI & Society, 25*(4), 441–454.
-- Koller, D., & Milch, B. (2003). _Multi‑agent influence diagrams for representing and solving games._ _Games and Economic Behavior, 45_(1), 181–221. https://doi.org/10.1016/S0899‑8256(02)00544‑4
+- Koller, D., &  Milch, B. (2003). _Multi‑agent influence diagrams for representing and solving games._ _Games and Economic Behavior, 45_(1), 181–221. https://doi.org/10.1016/S0899‑8256(02)00544‑4
 - Norman, D. A. (1993). *Things That Make Us Smart: Defending Human Attributes in the Age of the Machine.* Addison-Wesley.
 - Simon, H. A. (1957). *Models of Man: Social and Rational.* Wiley.

@@ -1,13 +1,13 @@
 This is how the user moves between screens and complete actions. It should mirror how the user mentally structure tasks and decision making. It is the idea of cause and effect, if a system aligns with a users mental model then when they will correctly predict the outcome of an action. "If I click this button it will take me to the expected page I am looking to get to". It allows the user to navigate the system without needing instruction on how to operate and control.  An example of this is when you click the "trash" button you expect your work to be removed and deposited into a trash folder where you can later undo the move if desired. If the system moves something to trash and does not allow the user to undo if needed this could go against the users mental model of how the systems interface works and can cause errors. 
 
-Components of interaction Logic:
+### Components of interaction Logic:
 
-**Flow logic**
-Order in which user expects to preform actions
+#### Flow logic
+*Order in which user expects to preform actions*
 Script theory (Schank & Abbelson, 1977) :  People expect  actions  to follow familiar patterns. An example  of this  could be when you are logging in to a system. This also  relates  to working memory and cognitive load,  if the  flow is  unpredictable users  must hold  more  steps inn  their  mind which  increases  mental effort.
 
-**Feedback logic** 
-How system communicates results, confirmations, or consequences of user actions 
+#### Feedback logic 
+*How system communicates results, confirmations, or consequences of user actions* 
 Timely easy  to  understand feedback helps  users   adjust their mental models  creating a  clear cause and  effect.  Lack of feedback  can cause  frustration, confusion  or   repetition of a  task (unsure if  something worked) 
 An example of this is  when   you  click  save  and  see   a  progress  bar  or   a  confirmation  message   saying  the  action   worked 
 

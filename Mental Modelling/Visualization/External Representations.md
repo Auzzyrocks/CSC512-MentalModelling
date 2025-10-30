@@ -1,18 +1,18 @@
 ## 1) What makes a representation “visual” and “external”?
 - **External**: it exists on paper or screen, persistent enough to be inspected and manipulated.  
 - **Visual**: it communicates via spatial layout and/or visual channels (position, length, area, angle, color, texture, orientation, shape, motion).  
-- **Cognitive role**: a partner to the internal model. People iteratively **read** from the diagram (extract structure) and write to it (arrange, annotate, re-represent).
+- **Cognitive role**: a partner to the internal model. People iteratively read from the diagram (extract structure) and write to it (arrange, annotate, re-represent).
 
-**Key idea:** A person is augmenting with their visuals, that makes one **distributed cognitive system** (Hutchins, 1995; Zhang & Norman, 1994).
+The key idea is that a person is augmenting with their visuals, that makes one distributed cognitive system (Hutchins, 1995; Zhang & Norman, 1994).
 
 ## 2) Why external visual representations work (mechanisms tied to vision & space)
 
 1) **Perceptual inference**  
-   - Encode relations so they are **seen** (e.g., comparing aligned positions is more accurate than comparing angles or areas).  
+   - Encode relations so they are seen (e.g., comparing aligned positions is more accurate than comparing angles or areas).  
    - Supports pop-out for targets using preattentive features (color, size, orientation).  
    *Canonical:* Larkin & Simon (1987); Cleveland & McGill (1984); Ware (2019); Kosslyn (2006).
 
-2) **Memory offloading**  
+1) **[[Mental Modelling/Visualization/Memory Offloading|Memory Offloading]]**  
    - Stable marks hold intermediate states/constraints; frees working memory for planning and hypothesis testing.  
    *Canonical:* Risko & Gilbert (2016); Sweller et al. (2011).
 
@@ -35,17 +35,16 @@
 - Magnitude & ranking: bar charts, dot plots.  
 - Trends & rates: line charts and slope charts.  
 - Distributions: histograms, density plots, violin/box plots, ridgeline small multiples.  
-- Part–whole: stacked bars (few parts), treemaps (hierarchical part–whole); avoid pies for precision.  
+- Part–whole: stacked bars (few parts), treemaps (hierarchical part–whole).
 - Multivariate quickscan: scatterplot (correlation), scatterplot matrix (SPLOM), parallel coordinates (high-dimensional).  
-  *Pitfalls:* overplotting; use transparency/binning/hexbin.
 
 
 ![[bar_chart.png]]
 
 ### B) Networks, trees, and sets
-- **Node–link diagrams** for sparse relationships, **adjacency matrices** for dense graphs.  
-- **Trees & hierarchies:** dendrograms, icicle/sunburst, indented lists; pick by space and needed precision.  
-- **Sets & overlaps:** Venn/Euler for *small* k; **UpSet** plots for larger k (set intersections as bars).
+- Node–link diagrams for sparse relationships, adjacency matrices for dense graphs.  
+- Trees & hierarchies: dendrograms, icicle/sunburst, indented lists.  
+- Sets & overlaps: Venn/Euler; UpSet plots.
 
 ![[tree_graph.png]]
 
@@ -67,7 +66,7 @@
 
 ---
 
-## 3) Visual encoding principles (make the right thing pop)
+## 3) Visual encoding principles (highlight desired features)
 
 - Channel ranking (accuracy): *position (common scale)* > length > angle/slope > area/volume > color luminance/saturation > color hue (for categories) > shape/texture. (Cleveland & McGill, 1984; Ware, 2019)  
 - Gestalt & grouping: proximity, similarity, enclosure, connection, continuity.
@@ -84,6 +83,7 @@
 - Animation helps when it shows continuous change that is hard to convey otherwise, and when it is user-controlled (pause/scrub) with trails showing history. (Tversky et al., 2002; Hegarty, 2004)  
 - Interactivity adds cognitive leverage: brushing & linking, faceting, parameter sliders, tooltips, focus+context (fish-eye/lens), view toggling (e.g., node-link ↔ matrix). (Shneiderman; Card et al.)
 
+---
 ## References
 - Bertin, J. (2011; orig. 1967). *Semiology of Graphics*. ESRI Press.  
 - Card, S. K., Mackinlay, J., & Shneiderman, B. (1999). *Readings in Information Visualization*. Morgan Kaufmann.  

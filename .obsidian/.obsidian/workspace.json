@@ -4,21 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "4cbf836973383048",
+        "id": "3c225211723dbf66",
         "type": "tabs",
         "children": [
           {
-            "id": "fac965c655b3c64d",
+            "id": "09b99907c56c34f7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "User Interface.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled 1.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "User Interface"
+              "icon": "lucide-table",
+              "title": "Untitled 1"
             }
           }
         ]
@@ -141,20 +140,21 @@
             "state": {
               "type": "outline",
               "state": {
-                "followCursor": false,
+                "file": "Untitled 1.base",
+                "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Untitled 1"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,10 +167,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "fac965c655b3c64d",
+  "active": "09b99907c56c34f7",
   "lastOpenFiles": [
+    "workspace.json",
+    "appearance.json",
     "Untitled 1.base",
     "User Interface.md",
+    "Untitled",
     "Interaction Logic.md",
     "Cultural Usability.md",
     "Untitled.canvas",

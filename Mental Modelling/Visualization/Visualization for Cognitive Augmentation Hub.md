@@ -3,5 +3,5 @@
 ## Map of this sub-section
 - [[Visualization. Definitions & Scope]]
 - [[External Representations]]
-- [[Mental Modelling/Memory Offloading]]
+- [[Memory Offloading]]
 - [[Matching Visuals to Tasks]]

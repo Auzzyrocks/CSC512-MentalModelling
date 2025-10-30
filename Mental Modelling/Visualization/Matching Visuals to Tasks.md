@@ -33,16 +33,10 @@ References: Vessey (1991); Ware (2019), Kosslyn (2006), Munzner (2014), Tufte (2
 ---
 
 ## References
-
-**Core theory of fit**  
   - Vessey, I. (1991). Cognitive fit: A theory-based analysis of graphs vs. tables. *Decision Sciences, 22*(2), 219–240.
-
-**Perception & channel accuracy**  
   - Cleveland, W. S., & McGill, R. (1984). Graphical perception: Theory, experimentation, and application. *JASA, 79*(387), 531–554.  
   - Ware, C. (2019). *Information Visualization: Perception for Design* (4th ed.). Morgan Kaufmann.  
   - Kosslyn, S. M. (2006). *Graph Design for the Eye and Mind*. Oxford University Press.
-
-**Visualization design handbooks**  
   - Munzner, T. (2014). *Visualization Analysis and Design*. CRC Press.  
   - Tufte, E. R. (2001). *The Visual Display of Quantitative Information* (2nd ed.). Graphics Press.
 

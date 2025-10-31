@@ -28,6 +28,7 @@ The value of these qualities of a virtual world is that the are not readily avai
 
 ![[Virtual_Worlds_1.png]]
 *The feedback loop of virtual models* (Sterman, 1994)
+
 ## References
 - Kok, K. (2009). The potential of fuzzy cognitive maps for semi-quantitative scenario development, with an example from Brazil. _Global Environmental Change: Human and Policy Dimensions, 19_(1), 122–133. [https://doi.org/10.1016/j.gloenvcha.2008.08.003](https://doi.org/10.1016/j.gloenvcha.2008.08.003)
 - Sterman, J. D. (1994). _Learning in and about complex systems_ (MIT Sloan Working Paper No. 3660). Massachusetts Institute of Technology, Sloan School of Management. [https://dspace.mit.edu/bitstream/handle/1721.1/2504/SWP-3660-30352170.pdf](https://dspace.mit.edu/bitstream/handle/1721.1/2504/SWP-3660-30352170.pdf?utm_source=chatgpt.com)

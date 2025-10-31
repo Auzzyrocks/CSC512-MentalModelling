@@ -1,6 +1,8 @@
 *"All models are wrong, but some are useful"* -  George E. P. Box, Statistician
+
 # Biases
 Many biases in mental modeling, and decision making more broadly, exist. These are a tendency for human reasoning to fail to meet logical or probabilistic standards, and are caused by a variety of reasons. Below are only a selection of existing well-known biases.
+
 ## Belief Bias
 Several specific types of bias have been commonly observed in mental models and the broader category of decision making. As explained below by Torrens (1999) there exists a belief bias, such that people are more willing to accept a mental model that produces an outcome that aligns with their belief system as opposed to their beliefs. Torres (1999) notes that this bias also applies to  believable outcomes, which are more readily accepted, as opposed to a model that produces a less-believable outcome which may actually be the correct outcome. 
 
@@ -26,6 +28,7 @@ Similar to many other biases, conjunction fallacy results from an inability to c
 ## Other Common Biases 
 ### Base-rate Fallacy
 ### Overconfidence Bias 
+
 
 ## References
 - Torrens, D. (1999). Individual differences and the belief bias effect: Mental models, logical necessity, and abstract reasoning. _Thinking & Reasoning, 5_(1), 1–28. https://doi.org/10.1080/135467899394066

@@ -1,4 +1,5 @@
 *"All models are wrong, but some are useful"* -  George E. P. Box, Statistician
+
 # [[Decision-Making, Mental Modelling, and Cognitive Augmentation Hub|Limitations]]
 While George Box was referring to statistical models, this aphorism holds true for mental models. Most research into mental models acknowledges as much, typified by Forrester (1971) who wrote that "*The mental image of the world around us that we carry in our heads is a model. One does not have a city or a government, or a country in his head. He has only selected concepts and relationships, which he uses to represent the real system."* 
 

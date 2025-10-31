@@ -3,30 +3,20 @@
 - **Visual**: it communicates via spatial layout and/or visual channels (position, length, area, angle, color, texture, orientation, shape, motion).  
 - **Cognitive role**: a partner to the internal model. People iteratively read from the diagram (extract structure) and write to it (arrange, annotate, re-represent).
 
-The key idea is that a person is augmenting with their visuals, that makes one distributed cognitive system (Hutchins, 1995; Zhang & Norman, 1994).
+The key idea is that a person is augmenting with their visuals, that makes one distributed cognitive system (Hutchins, 1995, Zhang & Norman, 1994).
 
 ## 2) Why external visual representations work (mechanisms tied to vision & space)
 
 1) **Perceptual inference**  
    - Encode relations so they are seen (e.g., comparing aligned positions is more accurate than comparing angles or areas).  
    - Supports pop-out for targets using preattentive features (color, size, orientation).  
-   *Canonical:* Larkin & Simon (1987); Cleveland & McGill (1984); Ware (2019); Kosslyn (2006).
+   *Canonical:* Larkin & Simon (1987); Cleveland & McGill (1984), Ware (2019), Kosslyn (2006).
 
 1) **[[Mental Modelling/Visualization/Memory Offloading|Memory Offloading]]**  
-   - Stable marks hold intermediate states/constraints; frees working memory for planning and hypothesis testing.  
-   *Canonical:* Risko & Gilbert (2016); Sweller et al. (2011).
+   - Stable marks hold intermediate states/constraints; frees working memory for planning and hypothesis testing.  (Risko & Gilbert (2016) Sweller et al. (2011)).
 
-3) **Search constraint**  
-   - Topology, alignment, axes, and arrows narrow possible interpretations and legal “moves.”  
-   *Canonical:* Larkin & Simon (1987).
-
-4) **Re-representation**  
-   - Switching form (e.g., node–link ↔ matrix; table ↔ plot) reveals different structure and errors.  
-   *Canonical:* Zhang (1997); Munzner (2014).
-
-5) **Spatial indexing / intelligent use of space**  
-   - Stable spatial layout doubles as an index into memory; fewer attentional shifts.  
-   *Canonical:* Kirsh (1995); Tufte (2001).
+1) Search constraint  
+   - Topology, alignment, axes, and arrows narrow possible interpretations and legal “moves.”  (Larkin & Simon (1987)).
 
 ---
 
@@ -68,7 +58,7 @@ The key idea is that a person is augmenting with their visuals, that makes one d
 
 ## 3) Visual encoding principles (highlight desired features)
 
-- Channel ranking (accuracy): *position (common scale)* > length > angle/slope > area/volume > color luminance/saturation > color hue (for categories) > shape/texture. (Cleveland & McGill, 1984; Ware, 2019)  
+- Channel ranking (accuracy): position (common scale) > length > angle/slope > area/volume > color luminance/saturation > color hue (for categories) > shape/texture. (Cleveland & McGill, 1984. Ware, 2019)  
 - Gestalt & grouping: proximity, similarity, enclosure, connection, continuity.
 - Labeling & contiguity: place labels *at* the mark; avoid long legends; maintain left-to-right/time conventions.  
 - Color: sequential palettes for ordered data; diverging for centered data; categorical for nominal.
@@ -77,11 +67,11 @@ The key idea is that a person is augmenting with their visuals, that makes one d
 
 ---
 
-## 6) Static, animated, and interactive **visuals** (visual-only lens)
+## 4) Static, animated, and interactive **visuals** (visual-only lens)
 
 - Static sequences (step panels, small multiples) often beat autoplay animation because transient information overloads working memory.  
-- Animation helps when it shows continuous change that is hard to convey otherwise, and when it is user-controlled (pause/scrub) with trails showing history. (Tversky et al., 2002; Hegarty, 2004)  
-- Interactivity adds cognitive leverage: brushing & linking, faceting, parameter sliders, tooltips, focus+context (fish-eye/lens), view toggling (e.g., node-link ↔ matrix). (Shneiderman; Card et al.)
+- Animation helps when it shows continuous change that is hard to convey otherwise, and when it is user-controlled (pause/scrub) with trails showing history. (Tversky et al., 2002. Hegarty, 2004)  
+- Interactivity adds cognitive leverage: brushing & linking, faceting, parameter sliders, tooltips, focus+context (fish-eye/lens), view toggling (e.g., node-link <-> matrix). (Shneiderman, Card et al.)
 
 ---
 ## References

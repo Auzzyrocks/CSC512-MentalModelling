@@ -28,7 +28,7 @@ References: Vessey (1991) on cognitive fit, Cleveland & McGill (1984) and Ware (
 | Causal structure/dynamics             | DAG**                              | Arrows & accumulators mirror cause/effect           |
 More information on the types of visuals can be found in [[External Representations]].
 
-References: Vessey (1991); Ware (2019), Kosslyn (2006), Munzner (2014), Tufte (2001).
+References: Vessey (1991), Ware (2019), Kosslyn (2006), Munzner (2014), Tufte (2001).
 
 ---
 

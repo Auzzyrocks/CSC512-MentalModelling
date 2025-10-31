@@ -1,29 +1,29 @@
-This is how the user moves between screens and complete actions. It should mirror how the user mentally structure tasks and decision making. It is the idea of cause and effect, if a system aligns with a users mental model then when they will correctly predict the outcome of an action. "If I click this button it will take me to the expected page I am looking to get to". It allows the user to navigate the system without needing instruction on how to operate and control.  An example of this is when you click the "trash" button you expect your work to be removed and deposited into a trash folder where you can later undo the move if desired. If the system moves something to trash and does not allow the user to undo if needed this could go against the users mental model of how the systems interface works and can cause errors. 
-
-### Components of interaction Logic:
-
+This is how the user moves between screens and complete actions. It should mirror how the user mentally structure tasks and decision making. It is the idea of cause and effect, if a system aligns with a users mental model then when they will correctly predict the outcome of an action. "*If I click this button it will take me to the expected page I am looking to get to*". It allows the user to navigate the system without needing instruction on how to operate and control.  An example of this is when you click the trash icon button you expect your work to be removed and deposited into a trash folder where you can later undo the move if desired. This concept is discussed by Norman (1983). If the system moves something to trash and does not allow the user to undo if needed this could go against the users mental model of how the systems interface works and can cause errors. 
+## Components of interaction Logic:
 #### Flow logic
 *Order in which user expects to preform actions*
-Script theory (Schank & Abbelson, 1977) :  People expect  actions  to follow familiar patterns. An example  of this  could be when you are logging in to a system. This also  relates  to working memory and cognitive load,  if the  flow is  unpredictable users  must hold  more  steps inn  their  mind which  increases  mental effort.
-
+Script theory (Schank & Abbelson, 1977) :  People expect  actions  to follow familiar patterns. An example  of this  could be when you are logging in to a system. This also  relates  to working memory and cognitive load, if the flow is unpredictable users must hold more steps in their mind which increases mental effort. This idea is brought to light with Brunye & Taylor (2008), who show that working memory plays a key role in forming and applying mental models of task sequences. 
 #### Feedback logic 
-*How system communicates results, confirmations, or consequences of user actions* 
-Timely easy  to  understand feedback helps  users   adjust their mental models  creating a  clear cause and  effect.  Lack of feedback  can cause  frustration, confusion  or   repetition of a  task (unsure if  something worked) 
-An example of this is  when   you  click  save  and  see   a  progress  bar  or   a  confirmation  message   saying  the  action   worked 
+*How system communicates results, confirmations, or consequences of user actions* 
+Timely easy  to  understand feedback helps  users   adjust their mental models  creating a  clear cause and  effect. In automated systems, feedback consistency strengthens user trust and mode awareness (Perrier et al. 2023).  Lack of feedback  can cause  frustration, confusion  or  repetition of a task (unsure if  something worked). An example of this is when you click  save and see a progress bar or a confirmation message  saying the action worked.  
+#### Navigation
+*Movement between screens, functions  or states of an applications*  
+Users build a mental map of the interface. Linked to memory retrieval cues, consistent placement and layout make it easier to recall where features are located. This provides retrieval cues to the user that reduce the cognitive load and improve performance. Atashpanjeh et al. (2024), demonstrated this in their study on helping users create clearer mental models in privacy-policy interfaces. 
+![[Uvic navigation bar.png]]
+Image showing the navigation bar located at the top of the page that remains as you interact with the system
+#### Control 
+*Sense of agency over system, that their actions directly influence the system*
+Tied to self-efficacy Bandura (1977) a persons belief in their own ability to organize and execute actions required to achieve goals. When people succeed, they gain confidence in their capabilities; when they repeatedly fail their self-efficacy drops even if their skill hasn't. If a user believes they can master a system, they'll test and refine their mental models. When users doubt their abilities, they avoid exploration and freeze at errors. Believing that they are the ones at fault which can lead to users becoming frustrated or quitting. AI has been frequently integrated within systems there is to maintain human-AI balance, to ensure users feel in control Du et al. (2018). A manual save vs automatic save with undo, both maintain user control if clearly communicated. 
+#### Error and recovery logic 
+*How systems prevent, handle, and help users recover from errors*
+Human error theory (Norman, 1983) follows the belief that errors aren't just user mistakes, they are signs that a system design doesn't aligned with the persons mental model. Effective error messaging corrects a user on how to operate the system and teaches them what to do differently. A clear error message "password too short" will guide the user on what they are doing wrong and prompt them to try again. 
 
-**Navigation**
-Movement between screens, functions  or  states of an applications  
-Users   build  a  mental map   of the  interface.  Linked  to memory  retrieval cues,  consistent placement  and layout   make it easier to  recall   where  features  are  located. 
-An   example is a  side bar that  remains static as  you  move  through  the  application. 
-
-**Control** 
-Sense of agency over system, that their actions directly influence the system
-Tied to self-efficacy(Bandura, 1977) a  persons belief in their own ability to organize and execute actions required to achieve goals. When people succeed, they gain confidence in their capabilities; when they repeatedly fail their self-efficacy drops even if their skill hasn't.
-When users believe they can master a system, they test and refine their mental models. When users doubt their abilities, they avoid exploration and freeze at errors. Believing that they are the ones at fault which can lead to users becoming frustrated or quitting. 
-Example Manual save vs automatic save with undo, both maintain user control if clearly communicated 
-**Error and recovery logic** 
-How systems prevent, handle, and help users recover from errors
-Human error theory(Norman, 1983) follows the belief that errors aren't just user mistakes, they are signs that a system design doesn't aligned with the persons mental model. Effective error messaging corrects a user on how to operate the system and teaches them what to do differently. 
-Example clear error message "password too short" will guide the user on what they are doing wrong
-
-These topics all relate to how a user constructs and updates current mental models of a system. If  a system is design with a target user in mind they can predict what the mental model might begin to look like. This also relates to why it is important to read reviews and feedback from users as they interact with the system. If there is a consistent error many users are running into it might be useful to change the system design to  better fit what they expect. 
+These topics all relate to how a user constructs and updates current mental models of a system. If  a system is design with a target user in mind they can predict what the mental model might begin to look like relating to [[Cultural Usability]]. This also relates to why it is important to read reviews and feedback from users as they interact with the system. If there is a consistent error many users are running into it might be useful to change the system design to better fit what they expect. 
+## **References**
+- Atashpanjeh, H., Paudel, R., & Al-Ameen, M. N. (2024). _Mental model-based designs: The study in privacy policy landscape_. _International Journal of Human–Computer Interaction, 41_(12), 7253–7272. [https://doi.org/10.1080/10447318.2024.2392064]
+- Bandura, A. (1977). _Self-efficacy: Toward a unifying theory of behavioral change_. _Psychological Review, 84_(2), 191–215. [https://doi.org/10.1037/0033-295X.84.2.191]
+- Brunyé, T. T., & Taylor, H. A. (2008). _Working memory in developing and applying mental models from spatial descriptions_. _Journal of Memory and Language, 58_(3), 701–729. https://doi.org/10.1016/j.jml.2007.08.003
+- Du, Y., Qin, J., Zhang, S., Cao, S., & Dou, J. (2018). _Voice user interface interaction design research based on user mental model in autonomous vehicle_. In M. Kurosu (Ed.), _Human–Computer Interaction 2018_ (LNCS 10903, pp. 117–132). Springer. [https://doi.org/10.1007/978-3-319-91250-9_10]
+- Norman, D. A. (1983). _Design rules based on analyses of human error_. _Communications of the ACM, 26_(4), 254–258. https://doi.org/10.1145/2163.358092
+- Perrier, M. J. R., Louw, T. L., & Carsten, O. M. J. (2023). _Usability testing of three visual HMIs for assisted driving: How design impacts driver distraction and mental models_. _Ergonomics, 66_(8), 1142–1163. [https://doi.org/10.1080/00140139.2022.2136766]
+- Schank, R. C., & Abelson, R. P. (1977). _Scripts, plans, goals, and understanding: An inquiry into human knowledge structures_. Hillsdale, NJ: Lawrence Erlbaum Associates.

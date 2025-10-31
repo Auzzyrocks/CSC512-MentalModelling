@@ -5,6 +5,7 @@
 - [[Limitations and Biases Hub]]]
 - [[Mental Modelling/Memory Offloading|Memory Offloading]]
 - [[Mental Modelling → Computer-Mediated Cognition]]
+- [[Driving Mental Model Hub]]
 
 # Definitions
 Loosely defined, a mental model can be described as a simplified internal representation of some external system, that is used to predict the outcome of a certain scenario. For example, gravity - humans have an internal model or models that allow us to visualize or predict what happens when a cup is pushed off a table. However, mental models have inherent limitations due to memory and processing capacity, as well as various biases that can render models incorrect.

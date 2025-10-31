@@ -12,7 +12,7 @@ Normative models describe how people should make decisions given that they were 
 - Not as adaptive to changing environments (though [[Normative Decision-Making Models#Bayesian Decision Making Models|Bayesian Decision Making Models]] allow for some adaptation).
 - Can be difficult to communicate due to dense probabilistic and mathematical background.
 ### Pros of Descriptive Models
-- Reflective of real behaviour, encapsulating [[Heuristics|heuristics]], [[Limitations and Biases Hub|biases]], bounded rationality.
+- Reflective of real behaviour, encapsulating [[Heuristics|heuristics]], [[Limitations and Biases of Mental Models|biases]], bounded rationality.
 - Sensitive to context and adaptation.
 - Integrates psychological insights such as cognitive load, intuitive vs. analytical thinking.
 - Better explains systematic deviations from optimality.
@@ -29,5 +29,5 @@ Normative models describe how people should make decisions given that they were 
 | Descriptive | Reflects real behaviour; sensitive to context; integrates psychological insights; explains deviations from optimality.   | Less prescriptive; can be fragmented; less precise; can reinforce biases.                                               |
 
 ## References
-- Stanovich, K. E. (1999). _Discrepancies between normative and descriptive models of reasoning._ _Cognition, 73_(3), 343‑358. https://doi.org/10.1016/S0010‑0285(99)00070‑0
+- Stanovich, K. E. (1999). _Discrepancies between normative and descriptive models of reasoning._ _Cognition, 73_(3), 343‑358. [10.1006/cogp.1998.0700](https://doi.org/10.1006/cogp.1998.0700)
 - Weber, E. U., & Coskunoglu, O. (1990). Descriptive and prescriptive models of decision-making: implications for the development of decision aids. _IEEE Transactions on Systems, Man, and Cybernetics_, _20_(2), 310–317. https://doi.org/10.1109/21.52542

@@ -14,7 +14,6 @@ When learning new information, individuals often construct and utilize mental im
 Schemas are, in many ways, pre-existing mental models that we use to predict and understand events. However, they do have some differences. Schemas represent generalized knowledge about recurring situations, whereas Mental Models are context-specific representations constructed from these schemas in order to reason about a particular situation. Schemas provide the framework, while mental models are activate simulations built atop that framework while engaging with the world (Johnson-Laird, 1983).
 ## References
 - Bartlett, F. C. (1932). _Remembering: A study in experimental and social psychology._ Cambridge University Press.
-- Guy‑Evans, O. (2023, May 2). _Schema theory in psychology: What is a schema?_ Simply Psychology. [https://www.simplypsychology.org/what-is-a-schema.html]
 - Johnson-Laird, P. N. (1983). _Mental models: Towards a cognitive science of language, inference, and consciousness._ Harvard University Press.
 - McVee, M. B., Dunsmore, K., & Gavelek, J. R. (2005). _Schema theory revisited._ _Review of Educational Research, 75_(4), 531‑566. https://doi.org/10.3102/00346543075004531
 - Meurer, J. L. (1985). _Schemata and reading comprehension._ _Ilha do Desterro – A Journal of English Language, Literatures in English and Cultural Studies_, (13), 1‑17. [https://periodicos.ufsc.br/index.php/desterro/article/view/11576/11258](https://periodicos.ufsc.br/index.php/desterro/article/view/11576/11258)

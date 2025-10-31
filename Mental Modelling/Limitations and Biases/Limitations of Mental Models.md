@@ -4,14 +4,14 @@ While George Box was referring to statistical models, this aphorism holds true f
 
 If one cannot fully carry a city, or a government, or a the complete set of physical laws and interactions that describe something as simple as a ball bouncing in ones head, one cannot possibly evaluate the complete set of possible outcomes within a mental model, only an approximation of such. Forrester (1994) again states as much, writing that *"the number of variables (people) can in fact properly relate to one another is very limited. The intuitive judgment of even a skilled investigator is quite unreliable in anticipating the dynamic behavior of a simple information-feedback system of perhaps five or six variables."* 
 
+Furthermore, humans are not only incapable of holding an entirely accurate model of the real world in our minds, but we are incapable of receiving the full state of affairs in any given situation. Sterman (1994) notes that the act of measurement itself, a precursor to populating our mental models with data, is imperfect and limited. This process is unavoidable rife with approximations, suppositions, and is out-of-date as soon as it is absorbed. 
+
+*We experience the real world through filters. No one knows the current sales rate of their firm, the current rate of production or the true value of the order back-log at any given time. Instead we receive estimates of these data, based on sampled, averaged, and delayed measurements. The act of measurement introduces distortions, delays, biases, errors and other imperfections, some known, others unknown and unknowable. Above all, measurement is an act of selection* (Sterman, 1994).
+
 ## [[Mental Modelling HEADER#Holtrop et al.|Holtrop et al.]]
 Other related views abound. (Holtrop et al., 2021) express a similar sentiment to Forrester, highlighting that many mental models, specifically inaccurate ones, are shared across society. They go on to identify a commonly held, but inaccurate, physics model that his been disproved since Gallileo, but is still commonly found today.
 
 *Mental models are always inaccurate to some extent, insofar as they are heuristics and involve stereotypes and expectations to make sense of the world. They cannot encapsulate all aspects of the world and tend to make imperfect predictions. When commonly shared mental models make inaccurate predictions, it can be a source of scientific insight and psychological fascination. For example, a common incorrect mental model about the physical world is that heavier objects fall faster than lighter ones. This mental model results in the expectation that a 20-pound ball will fall faster than a one-ounce ball, an expectation that was disproved compellingly by Galileo, but that is so counterintuitive that we must continue to dispel it in schoolchildren today* (Holtrop et al, 2021).
-
-# Limitations and Cognitive Augmentations 
-
-
 
 
 ## References
@@ -19,3 +19,4 @@ Other related views abound. (Holtrop et al., 2021) express a similar sentiment t
 - **Forrester, J. W. (1971).** Counterintuitive behavior of social systems. In _Collected papers of J. W. Forrester_ (pp. 211–244). Wright-Allen Press.
 - **Forrester, J. W. (1994).** Policies, decisions, and information sources for modeling. In J. D. W. Morecroft & J. D. Sterman (Eds.), _Modeling for learning organizations_ (pp. 51–84). Productivity Press.
 - Holtrop, J. S., Scherer, L. D., Matlock, D. D., Glasgow, R. E., & Green, L. A. (2021). The Importance of Mental Models in Implementation Science. _Frontiers in public health_, _9_, 680316. https://doi.org/10.3389/fpubh.2021.680316
+- Sterman, J. D. (1994). _Learning in and about complex systems_ (MIT Sloan Working Paper No. 3660). Massachusetts Institute of Technology, Sloan School of Management. [https://dspace.mit.edu/bitstream/handle/1721.1/2504/SWP-3660-30352170.pdf](https://dspace.mit.edu/bitstream/handle/1721.1/2504/SWP-3660-30352170.pdf?utm_source=chatgpt.com)
